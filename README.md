@@ -20,7 +20,7 @@ To get started with SAFE, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/diligentdexterity/safe.git
+    git clone https://github.com/darshandhakal48/password-manager
     ```
 
 2. **Navigate to the project directory:**
@@ -78,9 +78,6 @@ We welcome contributions to enhance SAFE. To contribute:
 4. Commit your changes (`git commit -m 'Add some feature'`).
 5. Push to the branch (`git push origin feature/your-feature-name`).
 6. Open a Pull Request.
-
-
-For any inquiries or support, please contact [Darshan Dhakal](mailto:diligentdexterity@gmail.com).
 
 ---
 
